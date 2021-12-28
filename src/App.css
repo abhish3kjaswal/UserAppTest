@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.HomeDiv {
+  /* padding: 50px; */
+  margin-top: 200px;
+  text-align: center;
+}
+
+.modal1 {
+  color: black;
+  /* height: 500px;
+  width: 500px; */
+}
